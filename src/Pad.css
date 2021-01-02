@@ -1,0 +1,41 @@
+/* div label input {
+	margin-right: 100px;
+}
+body {
+	font-family: sans-serif;
+}
+
+#ck-button {
+	height: 90px;
+	width: 90px;
+	margin: 4px;
+	background-color: pink;
+	border-radius: 4px;
+	border: 1px solid #d0d0d0;
+	overflow: auto;
+	float: left;
+}
+
+#ck-button label {
+	float: left;
+	width: 4em;
+}
+
+#ck-button label span {
+	height: 90px;
+	width: 90px;
+	text-align: center;
+	padding: 3px 0px;
+	display: block;
+}
+
+#ck-button label input {
+	position: absolute;
+	top: -20px;
+}*/
+
+#ck-button input:checked + span {
+	background-color: rgb(133, 65, 136);
+	border: 1px solid green;
+	color: #fff;
+} 
