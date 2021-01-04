@@ -7,17 +7,23 @@ import ControlButton from "./ControlButton";
 
 const App = () => {
 	// load sound files
-	const guitar = new Audio("./electric-guitar.mp3");
-	const bass = new Audio("./funk-bass.mp3");
-	const funkBeats = new Audio("./future-funk-beats.mp3");
-	const grooveDrum = new Audio("./groove-drums.mp3");
-	const tangguDrum = new Audio("./groove-tanggu.mp3");
+	const guitar = new Audio("gs://looper--app.appspot.com/electric-guitar.mp3");
+	const bass = new Audio("gs://looper--app.appspot.com/funk-bass.mp3");
+	const funkBeats = new Audio(
+		"gs://looper--app.appspot.com/future-funk-beats.mp3"
+	);
+	const grooveDrum = new Audio("gs://looper--app.appspot.com/groove-drums.mp3");
+	const tangguDrum = new Audio(
+		"gs://looper--app.appspot.com/groove-tanggu.mp3"
+	);
 	const organSynth = new Audio(
 		"gs://looper--app.appspot.com/SilentStar-OrganSynth.mp3"
 	);
-	const stutter = new Audio("./stutter-breakbeats.mp3");
-	const drums = new Audio("./stompy-slosh.mp3");
-	const maze = new Audio("./maze-politics.mp3");
+	const stutter = new Audio(
+		"gs://looper--app.appspot.com/stutter-breakbeats.mp3"
+	);
+	const drums = new Audio("gs://looper--app.appspot.com/stompy-slosh.mp3");
+	const maze = new Audio("gs://looper--app.appspot.com/maze-politics.mp3");
 
 	// an array of sounds and their boolean states = if true, this sound should be played
 	const [sounds, setSounds] = useState([
