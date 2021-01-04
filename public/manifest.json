@@ -1,6 +1,6 @@
 {
-  "short_name": "Looper",
-  "name": "Looper",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "icon1.ico",
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },
     {
-      "src": ".png",
+      "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
