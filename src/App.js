@@ -12,7 +12,9 @@ const App = () => {
 	const funkBeats = new Audio("./future-funk-beats.mp3");
 	const grooveDrum = new Audio("./groove-drums.mp3");
 	const tangguDrum = new Audio("./groove-tanggu.mp3");
-	const organSynth = new Audio("./SilentStar-OrganSynth.mp3");
+	const organSynth = new Audio(
+		"gs://looper--app.appspot.com/SilentStar-OrganSynth.mp3"
+	);
 	const stutter = new Audio("./stutter-breakbeats.mp3");
 	const drums = new Audio("./stompy-slosh.mp3");
 	const maze = new Audio("./maze-politics.mp3");
