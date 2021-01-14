@@ -3,5 +3,4 @@
 https://looper--app.web.app/
 
 
-![looper app](/public/image.png)
-
+<img src="https://imgur.com/a/ZKnVYJe.png" width="100" height="100">
