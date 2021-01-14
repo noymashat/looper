@@ -2,4 +2,4 @@
 
 https://looper--app.web.app/
 
-![](/public/image.png =250x350)
+![looper app](/public/image.png | width=200 height=350)
