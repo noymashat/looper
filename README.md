@@ -1,4 +1,4 @@
-## <img src="https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png" width="20" height="20"> &nbsp;Looper App
+## <img src="https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png" width="20" height="20"> &nbsp;&nbsp;Looper App
 
 Hit the play button and begin creating cool tracks!
 </br>
