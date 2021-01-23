@@ -1,5 +1,5 @@
 ## Looper App
-Hit the play button and start creating cool tracks!
+Hit the play button and begin creating cool tracks!
 </br>
 https://looper--app.web.app/
 
