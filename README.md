@@ -1,4 +1,4 @@
-(https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png)
+<img src="https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png" width="32" height="32">
 
 ## Looper App
 
