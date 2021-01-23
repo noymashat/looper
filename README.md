@@ -1,6 +1,6 @@
-<img src="https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png" width="32" height="32">
-
 ## Looper App
+
+<img src="https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png" width="32" height="32">
 
 Hit the play button and begin creating cool tracks!
 </br>
