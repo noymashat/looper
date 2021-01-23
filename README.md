@@ -1,4 +1,6 @@
-## [!Looper Icon](https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png) Looper App
+[!Looper Icon](https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png)
+
+## Looper App
 
 Hit the play button and begin creating cool tracks!
 </br>
