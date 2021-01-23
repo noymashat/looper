@@ -1,4 +1,4 @@
-[!Looper Icon](https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png)
+(https://github.com/noymashat/looper/blob/master/public/favicon-32x32.png)
 
 ## Looper App
 
